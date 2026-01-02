@@ -1,47 +1,17 @@
 {
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
-  "keywords": [
-    "solana",
-    "spl"
-  ],
+  "keywords": ["solana","spl"],
   "tags": {
-    "stablecoin": {
-      "name": "stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-    },
-    "ethereum": {
-      "name": "ethereum",
-      "description": "Asset bridged from ethereum"
-    },
-    "lp-token": {
-      "name": "lp-token",
-      "description": "Asset representing liquidity provider token"
-    },
-    "wrapped-sollet": {
-      "name": "wrapped-sollet",
-      "description": "Asset wrapped using sollet bridge"
-    },
-    "wrapped": {
-      "name": "wrapped",
-      "description": "Asset wrapped using wormhole bridge"
-    },
-    "leveraged": {
-      "name": "leveraged",
-      "description": "Leveraged asset"
-    },
-    "bull": {
-      "name": "bull",
-      "description": "Leveraged Bull asset"
-    },
-    "bear": {
-      "name": "bear",
-      "description": "Leveraged Bear asset"
-    },
-    "nft": {
-      "name": "nft",
-      "description": "Non-fungible token"
-    }
+    "stablecoin": { "name": "stablecoin", "description": "Tokens that are fixed to an external asset, e.g. the US dollar" },
+    "ethereum": { "name": "ethereum", "description": "Asset bridged from ethereum" },
+    "lp-token": { "name": "lp-token", "description": "Asset representing liquidity provider token" },
+    "wrapped-sollet": { "name": "wrapped-sollet", "description": "Asset wrapped using sollet bridge" },
+    "wrapped": { "name": "wrapped", "description": "Asset wrapped using wormhole bridge" },
+    "leveraged": { "name": "leveraged", "description": "Leveraged asset" },
+    "bull": { "name": "bull", "description": "Leveraged Bull asset" },
+    "bear": { "name": "bear", "description": "Leveraged Bear asset" },
+    "nft": { "name": "nft", "description": "Non-fungible token" }
   },
   "tokens": [
     {
@@ -51,9 +21,7 @@
       "name": "Trade Acceleration by Regional Connectivity",
       "decimals": 9,
       "logoURI": "https://1.postimg.cc/2jKVwLX/IMG-20260102-WA0028.jpg",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "website": "https://www.tarcltd.com",
         "twitter": "https://x.com/gutzi77?s=21&t=wXfnK9bz4exzHNRRiZLa6Q",
