@@ -1,7 +1,10 @@
 {
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
-  "keywords": ["solana","spl"],
+  "keywords": [
+    "solana",
+    "spl"
+  ],
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -48,11 +51,13 @@
       "name": "Trade Acceleration by Regional Connectivity",
       "decimals": 9,
       "logoURI": "https://1.postimg.cc/2jKVwLX/IMG-20260102-WA0028.jpg",
-      "tags": ["utility-token"],
+      "tags": [
+        "utility-token"
+      ],
       "extensions": {
         "website": "https://www.tarcltd.com",
         "twitter": "https://x.com/gutzi77?s=21&t=wXfnK9bz4exzHNRRiZLa6Q",
-        "telegram": "https://t.me/TACProject"
+        "telegram": "https://t.me/TARCProject"
       }
     }
   ]
