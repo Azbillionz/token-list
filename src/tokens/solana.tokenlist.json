@@ -1,75 +1,59 @@
-"name": "Solana Token List",
-
-"LogoURI:
-
-"https://cdn.jsdelivr.net/gh/trustwallet/assetsümaster
-
-/blockchains/solana/info/logo.png".
-
-"keywords":[
-
-1.
-
-solana".
-
-spl
-
-tags: (
-
-"tokens": [
-
-"chainId": 181,
-
-"address":
-
-*A47pmraKXPCDM7gaJVtVLAc1bemk7stvuv5q67pump",
-
-"symbol": "TARC",
-
-"name": "Trade Acceleration by Regional Connectivity",
-
-"decimals": 9.
-
-LogoURI:
-
-https://1.postimg.cc/2jKVwLX/IMG-20260102-WA0028.jpg"
-
-"tags": ["utility-token"],
-
-"extensions": {
-
-"website": "https://www.tarcltd.com",
-
-twitter:
-
-"https://x.com/gutz177?s=21&t=wXfnK9bz4exzHNRR1ZL86Q,
-
-"telegram": "https://t.me/TARCProject
-
-"stablecoin": (
-
-"name": "stablecoin",
-
-"description': "Tokens that are fixed to an external
-
-asset, e.g. the US dollar"
-
-ethereum": [
-
-name: ethereum
-
-description": "Asset bridged from ethereum"
-
-"Ip-token":
-
-name": "lp-token",
-
-"description": "Asset representing liquidity provider
-
-token"
-
-"orapped-sollet": {
-
-"name": "wrapped-sollet",
-
-"description": "Asset wrapped using sollet bridge"
+{
+  "name": "Solana Token List",
+  "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
+  "keywords": ["solana","spl"],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "lp-token": {
+      "name": "lp-token",
+      "description": "Asset representing liquidity provider token"
+    },
+    "wrapped-sollet": {
+      "name": "wrapped-sollet",
+      "description": "Asset wrapped using sollet bridge"
+    },
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "nft": {
+      "name": "nft",
+      "description": "Non-fungible token"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "A47pmraKXPCrDWM7gsJYtVLAcibemK7sLvuv5q67pump",
+      "symbol": "TARC",
+      "name": "Trade Acceleration by Regional Connectivity",
+      "decimals": 9,
+      "logoURI": "https://1.postimg.cc/2jKVwLX/IMG-20260102-WA0028.jpg",
+      "tags": ["utility-token"],
+      "extensions": {
+        "website": "https://www.tarcltd.com",
+        "twitter": "https://x.com/gutzi77?s=21&t=wXfnK9bz4exzHNRRiZLa6Q",
+        "telegram": "https://t.me/TARCProject"
+      }
+    }
+  ]
+}
